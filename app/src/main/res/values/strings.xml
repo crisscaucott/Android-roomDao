@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoomWords</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_word">No word</string>
+    <string name="deleting_toast">Deleting \'%1$s\'…</string>
+
+    <string name="hint_word">Word…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="clear_all_data">Clear all data</string>
+    <string name="clear_data_msg">Clearing the data…</string>
+</resources>
